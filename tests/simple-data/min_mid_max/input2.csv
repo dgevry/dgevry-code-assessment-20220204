@@ -1,0 +1,11 @@
+Primary_key,Attribute_a,Attribute_B,Attribute_C,Cob_date
+1,Yes,No,No,01/01/2021
+2,No,Yes,No,01/01/2021
+1,No,No,No,01/02/2021
+2,No,Yes,No,01/02/2021
+1,No,Yes,No,01/03/2021
+2,No,Yes,No,01/03/2021
+1,No,No,No,01/04/2021
+2,No,Yes,No,01/04/2021
+1,No,No,Yes,01/05/2021
+2,No,Yes,No,01/05/2021

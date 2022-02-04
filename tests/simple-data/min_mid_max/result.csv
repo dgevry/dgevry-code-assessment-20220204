@@ -1,0 +1,3 @@
+Primary_key,Attribute_a,Attribute_B,Attribute_C,Current_date,Days_since_attribute_a,Days_since_attribute_b,Days_since_attribute_c
+1,No,No,Yes,01/05/2021,4,2,0
+2,No,Yes,No,01/05/2021,0,4,0
