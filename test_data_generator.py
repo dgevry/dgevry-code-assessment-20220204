@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """
-This is utility to generate test data sets
+# Title : Code Assessment - Test Generator
+# Description : This is utility to generate test data sets
+# Author : David Gevry
+# Date : 2022-02-04
+# Version : 1.0
 """
 
 import csv

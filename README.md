@@ -1,4 +1,7 @@
 # code-assesment
+David Gevry JPMC Code Assessment
+david.gevry@gmail.com
+
 ## Problem Desciption
 Assume you have 2 datasets
 
@@ -145,3 +148,9 @@ python3 ./creator.py -ds1 tests/simple-data/sample/input1.csv -ds2 tests/simple-
     │       └── result.csv
     └── test_suite.py
 ```
+
+## TODO
+# Tests
+
+- [ ] Test suite to validate incomplete input data and support to handle the exclusion of such cases
+- [ ] Load test metrics collection
